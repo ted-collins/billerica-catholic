@@ -439,12 +439,17 @@ border: 3px solid #222;text-indent: -999999px;}
 	left:15px;
 }
 
- .nivo-caption {
+ .nivo-caption p {
     font-family: Helvetica, Arial, sans-serif;
+	opacity: 0.9!important;
+	font-weight: bold;
 }
  .nivo-caption a {
     color:#fff;
     border-bottom:1px dotted #fff;
+}
+ .nivo-caption h3 {
+	opacity: 0.9!important;
 }
  .nivo-caption a:hover {
     color:#fff;
@@ -808,7 +813,7 @@ margin-bottom:0px;
 
 .icon{
 	
-	margin-top: 15px;
+	margin-top: 8px;
 	margin-bottom: 5px;
 	display: inline-block;
 	text-align:center;
@@ -955,7 +960,7 @@ box-shadow: 0px 0px 1px 1px #888888; }
 	height: 80px;
 	border-radius: 50%;
 	margin-left: 32%;
-	border: 2px solid rgba(0,153,153,0.5);
+	border: 8px solid rgba(0,153,153,0.5);
 	text-align:center;
 	
 	
@@ -1666,7 +1671,7 @@ text-align: left;
 .copytext {
 	float: left;
 	padding: 5px 10px;
-	width: 70%;
+	width: 95%;
 	color:#CCC;
 }
 /*Footer Menu*/
@@ -3055,7 +3060,7 @@ margin-left: -80px;
 .clients{ text-align:center;}
 .client { margin-left:15%;}
 
-.nivo-caption h3 { font-size:20px !important;}
+.nivo-caption h3 { font-size:20px !important; opacity: 1!important;}
 .nivo-controlNav{ display:none !important;}
 #navmenu ul > li::before { display:none !important;}
 
@@ -3113,3 +3118,20 @@ margin-left: 10px;
 		
 		
 		}
+
+.st-andrews-color {
+	color: white;
+	background-color: rgb(60,183,89);
+}
+.st-marys-color {
+	color: white;
+	background-color: rgb(46,154,227);
+}
+.st-theresas-color {
+	color: white;
+	background-color: rgb(191,11,59);
+}
+
+.post_info_wrap p {
+	font-size: 18px!important;
+}
