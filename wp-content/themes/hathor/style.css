@@ -84,6 +84,7 @@ p {
 	padding-top:20px;
 	float:left;
 	padding-bottom:20px;
+	font-size: 80%;
 }
 
 #site-title2{padding-top:20px;
@@ -98,7 +99,7 @@ text-align:center;
 }
 #site-title a {
 	color: #000;
-	font-size: 40px;
+	font-size: 36px;
 	line-height: 36px;
 	text-decoration: none;
 	text-align: center;
@@ -3134,4 +3135,27 @@ margin-left: 10px;
 
 .post_info_wrap p {
 	font-size: 18px!important;
+}
+
+.search_wrap {
+	float: right;
+	height: 3em;
+	margin-top: 1em;
+	width: 13em;
+}
+
+.search_wrap button {
+	float: none;
+	position: relative;
+	top: -3.4em;
+	left: 13.1em;
+	background: none;
+	color:#CCC;
+	width: 3em;
+	padding: 4px;
+	border-radius: 10px;
+}
+
+.search_wrap button:hover {
+	background: black;
 }
