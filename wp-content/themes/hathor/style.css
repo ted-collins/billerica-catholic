@@ -3159,3 +3159,7 @@ margin-left: 10px;
 .search_wrap button:hover {
 	background: black;
 }
+
+.post-1 .imgwrap {
+	height: 172px;
+}

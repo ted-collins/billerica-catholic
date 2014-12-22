@@ -118,19 +118,6 @@
        </div>       
 
 
-<div>
-	<table border="0" cellspacing="1" cellpadding="5" width="100%">
-    <tbody>
-        <tr>
-            <td><a href="http://www.rcab.org/" target="_blank"><img width="135" height="135" style="border: 0px solid;" title="Archdiocese of Boston" alt="Archdiocese of Boston" src="/wp-content/uploads/assets/bostonAD.gif" /></a></td>
-            <td><a href="http://www.vatican.va/phome_en.htm" target="_blank" alt="Vatican"><img width="95" height="103" style="border: 0px solid;" alt="Vatican" src="/wp-content/uploads/assets/vatic_home3.gif" /></a></td>
-            <td><a href="http://www.usccb.org/" target="_blank"><img width="110" height="107" style="border: 0px solid;" title="United States Conference of Catholic Bishops" alt="United States Conference of Catholic Bishops" src="/wp-content/uploads/assets/usccb.gif" /></a></td>
-            <td><a href="http://www.ewtn.com/" target="_blank"><img width="120" height="35" style="border: 0px solid;" alt="Eternal Word Television Network" src="/wp-content/uploads/assets/ewtn.gif" /></a></td>
-        </tr>
-    </tbody>
-</table>
-
-</div>
 
 </div>
 
